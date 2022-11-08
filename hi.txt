@@ -1,4 +1,4 @@
-깃 환경 설정 
+O[O깃 환경설정 
 git config --global user.name "name"
 git config --global user.email "email"혹은 생성 
 mkdir  폴더명 
