@@ -1,1 +1,38 @@
-hi221108hi
+깃 환경 설정 
+git config --global user.name "name"
+git config --global user.email "email"혹은 생성 
+mkdir  폴더명 
+
+폴더 아래 파일 생성 
+vi  파일명
+
+관리할 디렉토리 초기호 ㅏ
+git init
+
+la -la   //git 디렉토리 생성 된것 확인 
+git add 파일명 
+
+
+
+
+
+
+
+
+
+4.git checkout sud
+
+5. vi hello.txt
+   git commit -am "s1"
+6.git checkout sub
+
+7.git log
+
+8  c2 해시 복사 
+ 0c164048674305d203fd5d05b1ee87f5f3e69754 
+9. git checkout sub
+
+10.
+git reset ( 복사한 해)
+
+11  git sub
